@@ -10,5 +10,9 @@ Enjoy these cool projects that hopefully you will find useful.
 Some cool projects that I worked on:
 
 *Bluetooth Garage Door Controller
+
 *Bluetooth Light Controller
+
 *Bluetooth Door Lock
+
+*Bluetooth Athan clock
